@@ -672,9 +672,7 @@ footer .footer-cnt span, footer .footer-cnt a{
 /* Smart class end */
 
 @media only screen and (max-width:568px){
-    header{
-        position:static
-    }
+
     header .row{
         align-items: center;
     }
