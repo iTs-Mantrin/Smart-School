@@ -47,6 +47,7 @@ h3{
 /* Sideform End */
 header{
     padding: 12px 0;
+    position:fixed
 }
 
 header .navbar-expand-lg {
